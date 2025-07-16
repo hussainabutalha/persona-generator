@@ -1,0 +1,58 @@
+**User Persona for /u/kojied**
+
+**1. Interest/Characteristic:**  Proficient in and highly interested in city-building/resource management games, specifically *Manor Lords*.  Demonstrates strategic thinking regarding resource allocation (granaries, trading posts, proximity of buildings), city planning (border placement for efficient management), and resource production optimization (trading raw materials vs. crafted goods).  Experiences challenges with late-game content and the demands of higher tier upgrades.
+       - **Citation:** https://www.reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/, https://www.reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/, https://www.reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/, https://www.reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i52vu/, https://www.reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/n1hhd7z/, https://www.reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/, https://www.reddit.com/r/ManorLords/comments/1ljgy2w/confession/mzopv8i/, https://www.reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/, https://www.reddit.com/r/ManorLords/comments/1lg0qii/the_ability_to_combine_regions_or_make_aivassal/myulv47/
+
+**2. Interest/Characteristic:**  Interest in and knowledge of AI-generated content, specifically AI-generated video.  Curious about techniques used for maintaining character consistency in AI-generated short films.
+       - **Citation:** https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/, https://www.reddit.com/r/ChatGPT/comments/1jpagk5/to_me_the_most_impressive_new_feature_is_the/ml31o85/
+
+**3. Interest/Characteristic:**  Follows and participates in discussions about NFTs and their future. Holds a somewhat pessimistic view of the current state of the NFT market but acknowledges the potential for future growth, particularly in fractional ownership of assets and the potential integration with VR/XR technologies.
+       - **Citation:** https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+
+**4. Interest/Characteristic:**  Familiar with and interested in the complexities of the H1B visa system in the United States.  While not expressing a strong opinion directly, he demonstrates an awareness of the discussions surrounding exploitation within the system.
+       - **Citation:** https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/, https://www.reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+
+**5. Interest/Characteristic:**  Enjoys and frequents specific restaurants in New York City, demonstrating a discerning palate and interest in diverse culinary experiences.
+       - **Citation:** https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/
+
+**6. Interest/Characteristic:**  A resident of New York City, with experience and observations on the city’s nightlife and the demographic shifts within it, particularly regarding intern season. He expresses a sense of displacement and generational understanding, but not necessarily judgment.
+       - **Citation:** https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+**7. Interest/Characteristic:**  Plays and enjoys video games across different genres, including survival games (*Project Zomboid*) and strategy games (*Civilization V*). He appreciates well-made games, regardless of graphics.
+       - **Citation:** https://www.reddit.com/r/AskReddit/comments/1iz0bzi/which_game_proves_that_graphics_arent_everything/mezpeha/, https://www.reddit.com/r/civ5/comments/1jlw2ao/rate_my_starting_locaiton/mk73w0o/, https://www.reddit.com/r/civ5/comments/1iuhdh9/dude_tf/mdxgebg/
+
+**8. Interest/Characteristic:**  Experienced in iOS development and particularly interested in VisionOS development, seeking resources to learn about spatial computing.  Shows interest in early adoption of new technologies like Apple Vision Pro.
+       - **Citation:** https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/, https://www.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/, https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/, https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+
+**9. Interest/Characteristic:**  Watches anime, specifically *One Piece*, and engages with theoretical discussions surrounding its lore and themes.  He possesses knowledge of Japanese culture and language.
+       - **Citation:** https://www.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/, https://www.reddit.com/r/OnePiece/comments/1kalm70/spotted_at_my_local_heiwado/mpo38g6/, https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
+
+**10. Interest/Characteristic:**  Interested in and practices plant care, though experiences challenges with maintaining the health of his English Ivy.
+       - **Citation:** https://www.reddit.com/gallery/16tj525, https://www.reddit.com/gallery/15pvycv
+
+**11. Interest/Characteristic:**  Experienced in options trading in the stock market, demonstrating awareness of market trends and risk assessment.
+       - **Citation:** https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+**12. Interest/Characteristic:**  Has a general interest in exploring how to make better purchasing decisions and possibly developing an app to track purchase gratification.  Displays interest in frugal living and personal finance.
+       - **Citation:** https://www.reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+
+**13. Interest/Characteristic:**  Familiar with and interested in Environmental, Social, and Governance (ESG) ratings, proposing a model for individual ESG tracking to promote more conscious consumerism.
+       - **Citation:** https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+
+**14. Interest/Characteristic:** Experienced with using various social media platforms (Reddit, X (formerly Twitter)).
+       - **Citation:**  Various posts referencing different platforms.
+
+**15. Interest/Characteristic:**  Has experience with and opinions on various technologies and services, including Robinhood, Webull, Lyft, and others, indicating a familiarity with finance and technology trends.
+       - **Citation:** https://www.reddit.com/r/Webull/comments/flf90r/50k_at_a_time/, https://i.redd.it/0nv5o7221ilb1.jpg
+
+
+**16. Interest/Characteristic:**  He is a Gen Z individual, as evidenced by his post inquiring about coming-of-age films for his generation.
+       - **Citation:** https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+
+**17. Interest/Characteristic:**  He is Japanese or of Japanese descent.
+       - **Citation:** https://www.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/, https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+
+
+**Personality Traits:** Strategic, analytical, detail-oriented, curious, thoughtful, somewhat pessimistic (regarding NFTs), interested in optimizing systems, and demonstrates a degree of self-awareness and reflection.
+
+**Communication Style:**  Helpful and informative, providing practical advice and insightful observations. Uses a straightforward and clear communication style.  Engages in thoughtful discussions and demonstrates willingness to share personal experiences and perspectives.
