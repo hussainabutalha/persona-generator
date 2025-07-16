@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Persona: {{USERNAME}}</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="persona-container">
+        <div class="header">
+            <h1>{{USERNAME}}</h1>
+            <p>{{BIO}}</p>
+        </div>
+        <div class="content-grid">
+            <div class="sidebar">
+                <div class="card demographics">
+                    <h2>Profile</h2>
+                    <div class="demographics-grid">
+                        <div><h3>Age</h3><p>{{AGE}}</p></div>
+                        <div><h3>Occupation</h3><p>{{OCCUPATION}}</p></div>
+                        <div><h3>Location</h3><p>{{LOCATION}}</p></div>
+                    </div>
+                </div>
+                <div class="card">
+                    <h2>Personality</h2>
+                    <ul>{{PERSONALITY}}</ul>
+                </div>
+                <div class="card">
+                    <h2>Motivations</h2>
+                    <ul>{{MOTIVATIONS}}</ul>
+                </div>
+            </div>
+            <div class="main-content">
+                <div class="card">
+                    <h2>Behaviour & Habits</h2>
+                    <ul>{{BEHAVIOURS}}</ul>
+                </div>
+                <div class="card">
+                    <h2>Goals & Needs</h2>
+                    <ul>{{GOALS}}</ul>
+                </div>
+                <div class="card">
+                    <h2>Frustrations & Pain Points</h2>
+                    <ul>{{FRUSTRATIONS}}</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
